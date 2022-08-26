@@ -1,0 +1,9 @@
+Preparacion de  Sitio Web
+
+
+1.-Prepar app.js
+2.-El puerto debe ser modificado, a variable de entorno
+3.-instalar npm i dotenv
+4.-Poner archivo .env Y COLOCAR LA VARIABLE PORT=8081
+5.-El dotenv se importa import 'dotenv/config' 
+6.-Ir al package.json y especificar el comando start "start": "node app.js"
